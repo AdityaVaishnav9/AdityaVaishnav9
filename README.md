@@ -1,6 +1,6 @@
 ![Masterhead](https://media.licdn.com/dms/image/D5612AQFaVRbDFg8peQ/article-cover_image-shrink_720_1280/0/1685311459273?e=2147483647&v=beta&t=DMo3YsjrIYGUIPLHTaBJIVBavJboRVInzi5bVXc-3xo)
 <h1 align="center">Hi 👋, I'm Aditya Vaishnav</h1>
-<h3 align="center">A passionate AI/ML Engineering student from India</h3>
+<h3 align="center">A passionate AI/ML Engineering student.</h3>
 <img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/03/hggj.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityavaishnav9&label=Profile%20views&color=0e75b6&style=flat" alt="adityavaishnav9" /> </p>
